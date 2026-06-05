@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Wordpress on Hugo 主题 Stack</title>
+        <link>https://wangzhifeng.cn/tags/wordpress/</link>
+        <description>Recent content in Wordpress on Hugo 主题 Stack</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wangzhifeng.cn/tags/wordpress/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>【变态版】WordPress多站点的花样玩法</title>
+            <link>https://wangzhifeng.cn/p/wordpress-000-001/</link>
+            <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+            <guid>https://wangzhifeng.cn/p/wordpress-000-001/</guid>
+            <description>&lt;p&gt;这篇文章带大家玩点新花样——而不是传统的玩法。&lt;/p&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;传统的多站点玩法，可以参照这篇文章：&lt;a href=&#34;https://wangzhifeng.cn/p/wordpress-000-002/&#34;&gt;【传统版】WordPress Multisite多站点&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;https://wangzhifeng.cn/attachments/1777887844585.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wangzhifeng.cn/p/hugo-001/&#34;&gt;【windows篇】Hugo&amp;#43;github&amp;#43;CloudFlare开启我的免费博客之路&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>【传统版】WordPress Multisite多站点</title>
+            <link>https://wangzhifeng.cn/p/wordpress-000-002/</link>
+            <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+            <guid>https://wangzhifeng.cn/p/wordpress-000-002/</guid>
+            <description></description>
+        </item></channel>
+</rss>
